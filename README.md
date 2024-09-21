@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="text-align: center;">
-    <img src="https://media1.tenor.com/m/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="Web Development GIF" style="max-width: 80%;"/>
+    <img src="https://media1.tenor.com/m/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="Web Development GIF" style="width: 80%;"/>
     ## Hi there 👋
 
     - 🔭 I’m currently working on ...
