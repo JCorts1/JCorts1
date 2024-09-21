@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N0a29iaGZmYXluaWl6c2ZqenpxdmpubW1mZGpxeGJiYWF5bXhpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif)
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlyaW12cXdmcXI0emN4MzBhd3RydXU5eGN4ZGFxdHh6YTMzcDN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUQ6hOPCUifdH1KWiz/giphy.webp)
 <!--
 **JCorts1/JCorts1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
