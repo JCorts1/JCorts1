@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N0a29iaGZmYXluaWl6c2ZqenpxdmpubW1mZGpxeGJiYWF5bXhpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif)
 <!--
 **JCorts1/JCorts1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
