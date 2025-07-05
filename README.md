@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div>
-    <h2>I am <bold>Jay Cortes<bold/></h2>
+    <h2>👋Hi! I am <bold>Jay Cortes<bold/></h2>
 </div>
 
 <div style="text-align: center">
