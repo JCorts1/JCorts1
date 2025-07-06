@@ -1,16 +1,67 @@
-<div>
-    <h2>👋Hi! I am <b>Jay Cortes</b></h2>
-</div>
+👋 Hi, I'm Jay Cortes
+<a href="https://www.google.com/search?q=https://jcortes.netlify.app/">
+<img src="https://media1.tenor.com/m/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="Coding GIF" width="100%"/>
+</a>
 
-<div style="text-align: center">
-    <ul style="display: flex; list-style-type: none; padding: 0; justify-content: center; gap: 2rem;">
-        <li style="display: flex; align-items: center; gap: 0.5rem;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" style="width: 3rem; height: auto;" />
-            React JS
-        </li>
-        <li style="display: flex; align-items: center; gap: 0.5rem;">
-            <img src="https://www.logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg" alt="Rails Logo" style="width: 3rem; height: auto;" />
-            Ruby On Rails
-        </li>
-    </ul>
-</div>
+🚀 Full-Stack Developer | React | Ruby on Rails | Shopify
+I'm a passionate Full-Stack Developer based in Berlin, Germany, with a knack for building elegant and efficient web applications. As a graduate of the Le Wagon coding bootcamp, I thrive on solving complex problems and bringing ideas to life through code. I'm currently focused on freelance projects and always eager to learn new technologies.
+
+👨‍💻 About Me
+
+🎓 Graduated from Le Wagon's intensive Full-Stack Web Development bootcamp.
+
+☕ Formerly a Shopify Developer at The Barn Coffee Roasters, where I honed my skills in e-commerce development.
+
+💡 Currently seeking freelance opportunities in React, Ruby on Rails, and Shopify development.
+
+🌱 I'm a lifelong learner, constantly exploring new tools and techniques to improve my craft.
+
+🎯 My goal is to help businesses grow by building high-quality, user-friendly web solutions.
+
+🛠️ My Tech Stack
+
+Here are some of the technologies I'm proficient in:
+
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+</a>
+<a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg" alt="shopify" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+</p>
+
+📊 My GitHub Stats
+
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJCorts1%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddracula" alt="jay cortes github stats" />
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DJCorts1%26layout%3Dcompact%26locale%3Den%26theme%3Ddracula" alt="jay cortes top languages" />
+</p>
+
+📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to reach out!
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/jay-juan-cortes" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay juan cortes" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://jcortes.netlify.app/" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/chrome.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+</p>
