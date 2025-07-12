@@ -1,6 +1,6 @@
 👋 Hi, I'm Jay Cortes
 <a href="https://jcortes.netlify.app/">
-<img src="./jay-animation.gif" alt="Jay's Custom Animation" width="100%"/>
+<img src="./jay-animation.gif" alt="Jay's Custom Animation" width="100%" style="border-radius: 15px;"/>
 </a>
 
 🚀 Full-Stack Developer | React | Ruby on Rails | Shopify
@@ -10,7 +10,7 @@ I'm a passionate Full-Stack Developer based in Berlin, Germany, with a knack for
 
 🎓 Graduated from Le Wagon's intensive Full-Stack Web Development bootcamp.
 
-☕ Formerly a Shopify Developer at The Barn Coffee Roasters, where I honed my skills in e-commerce development.
+☕ Formerly a Shopify Developer in the specialty coffee industry, where I honed my skills in e-commerce development.
 
 💡 Currently seeking freelance opportunities in React, Ruby on Rails, and Shopify development.
 
