@@ -1,7 +1,7 @@
 👋 Hi, I'm Jay Cortes
 
-<a href="https://jcortes.netlify.app/">
-<img src="./jay-animation.gif" alt="Jay's Custom Animation" width="100%" style="border-radius: 15px;"/>
+<a href="https://jcortes.netlify.app/" style="display: inline-block; border-radius: 15px; overflow: hidden;">
+<img src="./jay-animation.gif" alt="Jay's Custom Animation" width="100%"/>
 </a>
 
 🚀 Full-Stack Developer | React | Ruby on Rails | Shopify
