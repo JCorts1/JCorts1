@@ -41,7 +41,7 @@ Here are some of the technologies I'm proficient in:
 📊 My GitHub Stats
 
 <div align="center">
-  <table>
+  <table style="border-radius: 15px">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=JCorts1&show_icons=true&locale=en&theme=dracula" alt="jay cortes github stats" />
