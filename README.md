@@ -1,6 +1,6 @@
 👋 Hi, I'm Jay Cortes
 <a href="https://jcortes.netlify.app/">
-<img src="./jay-animation.gif" alt="Jay's Custom Animation" width="100%" style="border-radius: 15px;"/>
+<img src="./jay-animation.gif" alt="Jay's Custom Animation" width="100%" style="border-radius: 20px;"/>
 </a>
 
 🚀 Full-Stack Developer | React | Ruby on Rails | Shopify
@@ -30,7 +30,7 @@ Here are some of the technologies I'm proficient in:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
 </a>
 <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg" alt="shopify" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/shopify/shopify-original.svg" alt="shopify" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -62,6 +62,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <p align="left">
 <a href="https://linkedin.com/in/jay-juan-cortes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay juan cortes" height="30" width="40" /></a>
-<a href="https://jcortes.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/chrome.svg" alt="portfolio" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://jcortes.netlify.app/" target="blank"><img align="center" src="https://cdn.simpleicons.org/netlify/32a89a" alt="portfolio" height="30" width="40" /></a>
+<a href="cortesjay1991@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="30" width="40" /></a>
 </p>
