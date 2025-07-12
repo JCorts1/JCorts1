@@ -35,10 +35,18 @@ Here are some of the technologies I'm proficient in:
 
 📊 My GitHub Stats
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JCorts1&show_icons=true&locale=en&theme=dracula" alt="jay cortes github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JCorts1&layout=compact&locale=en&theme=dracula" alt="jay cortes top languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=JCorts1&show_icons=true&locale=en&theme=dracula" alt="jay cortes github stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JCorts1&layout=compact&locale=en&theme=dracula" alt="jay cortes top languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 📫 Let's Connect!
 
