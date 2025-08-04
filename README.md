@@ -15,7 +15,7 @@ I'm a passionate Full-Stack Developer based in Berlin, Germany, with a knack for
 
 🎓 Graduated from Le Wagon's intensive Full-Stack Web Development bootcamp.
 
-☕ Formerly a Shopify Developer in the specialty coffee industry, where I honed my skills in e-commerce development.
+☕ Formerly a Shopify Developer | Full Stack Developer in the specialty coffee industry, where I honed my skills in e-commerce development.
 
 💡 Currently seeking freelance opportunities in React, Ruby on Rails, and Shopify development.
 
