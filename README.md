@@ -9,12 +9,6 @@
 
 🚀 Full-Stack Developer | React | TS | Ruby on Rails | Shopify
 
-👨‍💻 About Me
-
-🎓 Graduated from Le Wagon's intensive Full-Stack Web Development bootcamp.
-
-☕ Formerly a Shopify Developer | Full Stack Developer in the specialty coffee industry, where I honed my skills in e-commerce development.
-
 
 🛠️ My Tech Stack
 
